@@ -13,3 +13,4 @@ Arquivo Pelo Diretório:
 
 ./file_bot_telegram.sh /home/diretorio/test.txt
 
+![Screenshot](foto1.png)
